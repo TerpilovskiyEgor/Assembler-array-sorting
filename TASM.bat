@@ -1,0 +1,4 @@
+C:\TASM\TASM /zi C:\TASM\4\4
+C:\TASM\TLINK C:\TASM\4\4
+
+pause
